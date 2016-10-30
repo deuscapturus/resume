@@ -6,6 +6,10 @@ Salt Lake City Utah 84111
 801-792-4987
 t@theodore.me
 
+.. contents::
+    :local:
+
+
 Profile
 =======
 
