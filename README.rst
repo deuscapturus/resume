@@ -1,12 +1,10 @@
 ==============
 Theodore Cowan
 ==============
--------------------------
 316 E 700 S
 Salt Lake City Utah 84111
 801-792-4987
 t@theodore.me
--------------------------
 
 Profile
 =======
@@ -41,8 +39,7 @@ Spritz Technology Inc
 :Location: Salt Lake City, UT
 :Period:   May 2014 – January 2015
 
-- IT Operations: AWS, Amazon Linux, MongoDB, ITIL, Change Management,
-Disaster Recovery, High Availability, IT-as-service, Splunk, Graphite, OpenShift, ManageIQ
+- IT Operations: AWS, Amazon Linux, MongoDB, ITIL, Change Management, Disaster Recovery, High Availability, IT-as-service, Splunk, Graphite, OpenShift, ManageIQ
 - DevOps: SaltStack, Nexus, AppDynamics, GitHub, Jenkins, ManageIQ, Tomcat, Apache, Python, Bash, Continuous Integration
 
 EMC
@@ -63,18 +60,12 @@ Self-Employed
 :Period:   April 2009 - May 2014
 
 - Website Administration: Website and database administrator for website logomaker.com. Logomaker.com has 2,000,000+ users. RHEL, PHP, MySQL, ImageMagick, Amazon AWS, SaltStack
-- Application Development: Migrated and further developed systems from Legacy
-Manufacturing Solutions for Compax.
-- Business Consulting: Coached and advised general manager and quality director
-in Asia, and served as resource for executives around the technology from Legacy
-Manufacturing Solutions.
+- Application Development: Migrated and further developed systems from Legacy Manufacturing Solutions for Compax.
+- Business Consulting: Coached and advised general manager and quality director in Asia, and served as resource for executives around the technology from Legacy Manufacturing Solutions.
 - Business Consulting: Worked on special projects including QC documentation and process improvement.
 - Application Development: Created and deployed a data entry and analytics application for Utah citizen initiative group Count My Vote. OpenShift Online,Simple PHP Framework
-- Application Development: Created OSS "Utah E-Petition" for two citizen initiatives
-groups. PHP, MySQL, Apache, Linux, and a small amount of C.
-- Public Activism: Assisted in development of legal arguments and technical
-method for gathering petition signatures electronically. Acted as an expert
-witness regarding the validity of electronically gathered signatures on citizen initiatives.
+- Application Development: Created OSS "Utah E-Petition" for two citizen initiatives groups. PHP, MySQL, Apache, Linux, and a small amount of C.
+- Public Activism: Assisted in development of legal arguments and technical method for gathering petition signatures electronically. Acted as an expert witness regarding the validity of electronically gathered signatures on citizen initiatives.
 
 Legacy Manufacturing Solutions LLC
 ----------------------------------
@@ -83,22 +74,14 @@ Legacy Manufacturing Solutions LLC
 :Location: Salt Lake City, UT
 :Period:   December 2006 - January 2011
 
-- Application Development: Developed business workflow application that managed
-all activities between US and China offices. Linux, Apache, MySQL, PHP
-- CIO: Deployed all business applications and systems. CRM, Zimbra, Asterisk,
-KVM, VMware, Redhat Linux
-- Business Operations: Set company goals and objectives, developed and improved
-operational procedures and methods, created business workflows, and resolved
-problems.
-- Business Development: Investigated new business opportunities, completed
-competitive analysis, developed new product disciplines.
-- Business Development: Maintained relationships within the local and global
-business community.
+- Application Development: Developed business workflow application that managed all activities between US and China offices. Linux, Apache, MySQL, PHP
+- CIO: Deployed all business applications and systems. CRM, Zimbra, Asterisk, KVM, VMware, Redhat Linux
+- Business Operations: Set company goals and objectives, developed and improved operational procedures and methods, created business workflows, and resolved problems.
+- Business Development: Investigated new business opportunities, completed competitive analysis, developed new product disciplines.
+- Business Development: Maintained relationships within the local and global business community.
 - Legal: Drafted non-disclosure, service and finance agreements.
-- Sales: Managed sales, marketing and customer accounts. Recruited sales staff.
-Authored marketing materials.
-- Sales: Advised customers in sourcing/manufacturing strategy in China and
-product development
+- Sales: Managed sales, marketing and customer accounts. Recruited sales staff. Authored marketing materials.
+- Sales: Advised customers in sourcing/manufacturing strategy in China and product development
 - Sales: Introduced bridge financing products.
 - Sales: Negotiated pricing and terms. Calculated duty and delivery paid pricing.
 
