@@ -23,6 +23,30 @@ Skills
 
 Red Hat Enterprise Linux, Fedora Linux, CenOS, Ubuntu Linux, Windows XP/7/8/2012/Server, VMWare, KVM, Asterisk, OpenStack, OpenShift, ManageIQ, Jenkins, Splunk, AppDynamics, ElasticSearch, SELinux, Zimbra, MySQL, PostgreSQL, LDAP, Salt Stack, EMC Avamar, EMC Avamar Extended Retention, EMC Symmetrix, Amazon AWS, Google Cloud Platform, PHP, SQL, BASH, PHP, Python
 
+Projects
+========
+
+tISM
+----
+
+:Contributions: Project creator and maintainer.
+:Source:        https://github.com/deuscapturus/tism
+:Period:        September 2016 - Present
+:Language:      Go
+
+"The immutable secrets manager", tISM is PGP encryption-as-a-service for secrets management.  Decrypt/Encrypt PGP secrets via API with token authorization.
+
+
+SaltStack
+---------
+
+:Contributions: AWS ELBv2 module, tISM module, TeamCity metarunner, bug fixes.
+:Source:        https://github.com/saltstack/salt
+:Period:        February 2015 - June 2017
+:Language:      Python
+
+SaltStack is a configuration management tool for platforms and infrastructure.
+
 Experience
 ==========
 
@@ -116,7 +140,6 @@ Certifications and Training
 - The Linux Foundation LF520 – OpenStack Cloud Architecture and Deployment.
 - SaltStack Training @ SaltConf 2014
 - OpenStack Training @ LinuxCon 2012
-- HP Helion Training @ LinuxCon 2014
 
 Professional Associations
 =========================
