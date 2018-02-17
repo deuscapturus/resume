@@ -1,10 +1,12 @@
 ==============
 Theodore Cowan
 ==============
-316 E 700 S
-Salt Lake City Utah 84111
-801-792-4987
-t@theodore.me
+
+
+:Phone:   801-792-4987
+:Email:   t@theodore.me
+:Address: Salem, Massachuseets
+
 
 .. contents::
     :local:
@@ -22,6 +24,10 @@ Skills
 ======
 
 Red Hat Enterprise Linux, Fedora Linux, CenOS, Ubuntu Linux, Windows XP/7/8/2012/Server, VMWare, KVM, Asterisk, OpenStack, OpenShift, ManageIQ, Jenkins, Splunk, AppDynamics, ElasticSearch, SELinux, Zimbra, MySQL, PostgreSQL, LDAP, Salt Stack, EMC Avamar, EMC Avamar Extended Retention, EMC Symmetrix, Amazon AWS, Google Cloud Platform, PHP, SQL, BASH, PHP, Python
+
+.. raw:: pdf
+
+   PageBreak oneColumn
 
 Projects
 ========
@@ -50,15 +56,23 @@ SaltStack is a configuration management tool for platforms and infrastructure.
 Experience
 ==========
 
+Pluralsight Boston MA
+---------------------
+
+:Title:    DevOps Engineer
+:Location: Boston Massachusetts
+:Period:   February 2018 – Present
+
+AWS, Docker, Kubernetes, Project Atomic, SaltStack, TeamCity, Ruby, Fedora Linux, GitHub, Python, Bash, NewRelic, Continuous Integration, Continuous Delivery, Immutable Infrastructure
+
 Pluralsight Farmington UT
 -------------------------
 
 :Title:    DevOps Engineer
 :Location: Farmington Utah
-:Period:   January 2015 – Present
+:Period:   January 2015 – February 2018
 
-AWS, Google Cloud Platform, Docker, SaltStack, TeamCity, NodeJS, .NET, RedHat Linux, Windows Server, GitHub, Python, GoLang, Powershell, Bash, NewRelic, Continuous Integration, Continuous Delivery, Immutable Infrastructure
-
+AWS, Google Cloud Platform, Docker, Kubernetes, Project Atomic, SaltStack, TeamCity, NodeJS, .NET, RedHat Linux, Windows Server, GitHub, Python, GoLang, Powershell, Bash, NewRelic, Continuous Integration, Continuous Delivery, Immutable Infrastructure
 
 Spritz Technology Inc
 ---------------------
@@ -146,3 +160,5 @@ Professional Associations
 
 - OpenStack Foundation
 - Cloud Security Alliance
+
+.. [source] https://github.com/deuscapturus/resume
