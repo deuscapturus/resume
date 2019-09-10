@@ -15,22 +15,28 @@ Theodore Cowan
 Profile
 =======
 
-Entrepreneurial professional adept at seeing the “big picture” of organizational goals. Proven ability to develop critical systems to drive the company. Committed to generating new revenue and achieving competitive revenue goals. IT savvy with experience in support and data center management to development and project management. Decisive and goal-driven.
 
-Areas of Expertise: IT-as-a-service, DevOps, Strategic Planning, Account Management, Systems Development, Revenue Growth, Information Technology, Business Development, Project Management, Free Software, Multi-Site Business Management
+Entrepreneurial, professional and focused on the “big picture” of organizational goals. Deep expertise in architecture and delivery for Software-as-a-Service business. Decisive and goal-driven.
+
+Free software advocate and contributor; adept in the Python and Golang programming languages.
+
+Areas of Expertise: SaaS Architecture, Cloud Architecture, DevOps, AWS, Strategic Planning, Business Development, Free Software
 
 
 Skills
 ======
 
-Red Hat Enterprise Linux, Fedora Linux, CenOS, Ubuntu Linux, Windows XP/7/8/2012/Server, VMWare, KVM, Asterisk, OpenStack, OpenShift, ManageIQ, Jenkins, Splunk, AppDynamics, ElasticSearch, SELinux, Zimbra, MySQL, PostgreSQL, LDAP, Salt Stack, EMC Avamar, EMC Avamar Extended Retention, EMC Symmetrix, Amazon AWS, Google Cloud Platform, PHP, SQL, BASH, PHP, Python
+
+AWS (most services), Linux (especially RedHat), AWS Cloudformation, Terraform, OCI Containers, Kubernetes, OpenShift, TeamCity, Jenkins, NewRelic, ElasticSearch, SELinux, PostgreSQL, LDAP, SaltStack, Google Cloud Platform, SQL, BASH, Python, Golang
 
 .. raw:: pdf
 
    PageBreak oneColumn
 
-Projects
-========
+
+Free Software Development
+=========================
+
 
 tISM
 ----
@@ -48,22 +54,37 @@ SaltStack
 
 :Contributions: AWS ELBv2 module, tISM module, TeamCity metarunner, bug fixes.
 :Source:        https://github.com/saltstack/salt
-:Period:        February 2015 - June 2017
+:Period:        February 2015 - November 2018
 :Language:      Python
 
 SaltStack is a configuration management tool for platforms and infrastructure.
 
+
+Forge
+-----
+
+:Contributions: Project fork, new features and fixes.
+:Source:        https://github.com/deuscapturus/forge
+:Period:        April 2019 - Present
+:Language:      Go
+
+Forge is a tool for continuous delivery of AWS Cloudformation templates.
+
+
 Experience
 ==========
+
 
 Pluralsight Boston MA
 ---------------------
 
-:Title:    DevOps Engineer
+:Title:    Senior DevOps Engineer
 :Location: Boston Massachusetts
 :Period:   February 2018 – Present
 
-AWS, Docker, Kubernetes, Project Atomic, SaltStack, TeamCity, Ruby, Fedora Linux, GitHub, Python, Bash, NewRelic, Continuous Integration, Continuous Delivery, Immutable Infrastructure
+Focused on software delivery, infrastructure and architecture for a machine learning and data science SaaS product team.
+
+AWS (Fargate/Kinesis/Athena/Cloudformation), Machine Learning, Apache Airflow, Tensorflow Serving, Nodejs, Python, Podman, Kubernetes, SaltStack, TeamCity, Fedora Linux, GitHub, NewRelic, Continuous Integration, Continuous Delivery, Immutable Infrastructure
 
 Pluralsight Farmington UT
 -------------------------
@@ -143,10 +164,13 @@ Novell Inc
 Education
 =========
 
+
 Snow College September 2001 - June 2002
+
 
 Certifications and Training
 ===========================
+
 
 - EMC Information Storage and Management (EMCISA)
 - EMC Virtualized Infrastructure Specialist (E20-018)
@@ -155,10 +179,13 @@ Certifications and Training
 - SaltStack Training @ SaltConf 2014
 - OpenStack Training @ LinuxCon 2012
 
+
 Professional Associations
 =========================
 
+
 - OpenStack Foundation
 - Cloud Security Alliance
+
 
 .. [source] https://github.com/deuscapturus/resume
