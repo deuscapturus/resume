@@ -8,7 +8,7 @@ jobs:
     runs-on: ubunu-latest
     
     steps:
-    - uses: fedora:31
+    - uses: docker://fedora:31
     - name: Install rst2pdf
       run: dnf install rst2pdf -y
     - name: Run build_pdf.sh
