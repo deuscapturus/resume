@@ -1,0 +1,15 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubunu-latest
+    
+    steps:
+    - uses: fedora:31
+    - name: Install rst2pdf
+      run: dnf install rst2pdf -y
+    - name: Run build_pdf.sh
+      run: ./build_pdf.sh
