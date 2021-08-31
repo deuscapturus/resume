@@ -16,18 +16,18 @@ Profile
 =======
 
 
-Entrepreneurial, professional and focused on the “big picture” of organizational goals. Deep expertise in architecture and delivery for Software-as-a-Service business. Decisive and goal-driven.
+Entrepreneurial, professional and focused on the “big picture” of organizational goals. Deep expertise in architecture and delivery for Software-as-a-Service businesses. Decisive and goal-driven.
 
-Free software advocate and contributor; adept in the Python and Golang programming languages.
+Free software advocate and contributor; adept in the Python and Golang programming languages.  A certified Cloud Architect and public cloud strategist.
 
-Areas of Expertise: SaaS Architecture, Cloud Architecture, DevOps, AWS, Strategic Planning, Business Development, Free Software
+Areas of Expertise: SaaS Architecture, Cloud Architecture, DevOps, Data Engineering, AWS, Strategic Planning, Business Development, Free Software
 
 
 Skills
 ======
 
 
-AWS (most services), Linux (especially RedHat), AWS Cloudformation, Terraform, OCI Containers, Kubernetes, OpenShift, TeamCity, Jenkins, NewRelic, ElasticSearch, SELinux, PostgreSQL, LDAP, SaltStack, Google Cloud Platform, SQL, BASH, Python, Golang
+AWS (most services), Linux (especially RedHat), AWS Cloudformation, Terraform, OCI Containers, Serverless Architecture, Kubernetes, TeamCity, NewRelic, ElasticSearch, ksqlDB, PostgreSQL, SaltStack, Google Cloud Platform, SQL, BASH, Python, Golang
 
 .. raw:: pdf
 
@@ -43,7 +43,7 @@ tISM
 
 :Contributions: Project creator and maintainer.
 :Source:        https://github.com/deuscapturus/tism
-:Period:        September 2016 - Present
+:Period:        September 2016 - December 2019
 :Language:      Go
 
 "The immutable secrets manager", tISM is PGP encryption-as-a-service for secrets management.  Decrypt/Encrypt PGP secrets via API with token authorization.
@@ -65,7 +65,7 @@ Forge
 
 :Contributions: Project fork, new features and fixes.
 :Source:        https://github.com/deuscapturus/forge
-:Period:        April 2019 - Present
+:Period:        April 2019 - September 2020
 :Language:      Go
 
 Forge is a tool for continuous delivery of AWS Cloudformation templates.
@@ -78,13 +78,13 @@ Experience
 Pluralsight Boston MA
 ---------------------
 
-:Title:    Senior DevOps Engineer
+:Title:    Principle DevOps Engineer
 :Location: Boston Massachusetts
 :Period:   February 2018 – Present
 
-Focused on software delivery, infrastructure and architecture for a machine learning and data science SaaS product team.
+Focused on software delivery, infrastructure, data engineering and architecture for a machine learning and data science product teams.
 
-AWS (Fargate/Kinesis/Athena/Cloudformation), Machine Learning, Apache Airflow, Tensorflow Serving, Nodejs, Python, Podman, Kubernetes, SaltStack, TeamCity, Fedora Linux, GitHub, NewRelic, Continuous Integration, Continuous Delivery, Immutable Infrastructure
+ksqlDB, Apache Kafka, Machine Learning, Apache Airflow, Tensorflow Serving, Nodejs, Python, Podman, Kubernetes, AWS ECS, AWS Lambda, SaltStack, TeamCity, Fedora Linux, GitHub, NewRelic, Continuous Integration, Continuous Delivery
 
 Pluralsight Farmington UT
 -------------------------
@@ -184,6 +184,7 @@ Professional Associations
 =========================
 
 
+- Boston DevOps
 - OpenStack Foundation
 - Cloud Security Alliance
 
