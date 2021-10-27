@@ -78,18 +78,18 @@ Experience
 Pluralsight Boston MA
 ---------------------
 
-:Title:    Principle DevOps Engineer
+:Title:    Principal DevOps Engineer
 :Location: Boston Massachusetts
 :Period:   February 2018 – Present
 
 Focused on software delivery, infrastructure, data engineering and architecture for a machine learning and data science product teams.
 
-ksqlDB, Apache Kafka, Machine Learning, Apache Airflow, Tensorflow Serving, Nodejs, Python, Podman, Kubernetes, AWS ECS, AWS Lambda, SaltStack, TeamCity, Fedora Linux, GitHub, NewRelic, Continuous Integration, Continuous Delivery
+ksqlDB, Apache Kafka, Machine Learning Delivery, Apache Airflow, Tensorflow Serving, Nodejs, Python, Podman, Kubernetes, AWS ECS, AWS Lambda, AWS Cloudformation with cdk, SaltStack, TeamCity, Fedora Linux, GitHub, NewRelic, Continuous Integration, Continuous Delivery, Data Enineering
 
 Pluralsight Farmington UT
 -------------------------
 
-:Title:    DevOps Engineer
+:Title:    Senior DevOps Engineer
 :Location: Farmington Utah
 :Period:   January 2015 – February 2018
 
