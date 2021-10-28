@@ -14,8 +14,8 @@ jobs:
       run: ./build_pdf.sh
     - name: Release
       uses: softprops/action-gh-release@v1
-      tag_name: `date +%F`
       with:
+        tag_name: `date +%F`
         files: Theodore_Cowan_Resume-`date +%F`.pdf
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
