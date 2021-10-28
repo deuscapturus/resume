@@ -9,8 +9,8 @@ jobs:
     steps:
     - name: Install rst2pdf
       run: dnf install rst2pdf -y
+    - uses: actions/checkout@v2
     - name: Run build_pdf.sh
-      uses: actions/checkout@v2
       run: ./build_pdf.sh
     - name: Release
       uses: softprops/action-gh-release@v1
