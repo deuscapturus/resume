@@ -4,11 +4,9 @@ on: [push]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-    
+    container: registry.fedoraproject.org/fedora:34 
     steps:
-    - uses: docker://fedora:34
     - name: Install rst2pdf
       run: dnf install rst2pdf -y
     - name: Run build_pdf.sh
