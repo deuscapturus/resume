@@ -5,11 +5,17 @@ on: [push]
 jobs:
   build:
 
-    runs-on: ubunu-latest
+    runs-on: ubuntu-latest
     
     steps:
-    - uses: docker://fedora:31
+    - uses: docker://fedora:34
     - name: Install rst2pdf
       run: dnf install rst2pdf -y
     - name: Run build_pdf.sh
       run: ./build_pdf.sh
+    - name: Release
+      uses: softprops/action-gh-release@v1
+      with:
+        files: Theodore_Cowan_Resume-`date +%F`.pdf
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
