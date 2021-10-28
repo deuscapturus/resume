@@ -12,10 +12,13 @@ jobs:
     - uses: actions/checkout@v2
     - name: Run build_pdf.sh
       run: ./build_pdf.sh
+    - name: Get current date
+      id: date
+      run: echo "::set-output name=date::$(date +%F)"
     - name: Release
       uses: softprops/action-gh-release@v1
       with:
-        tag_name: "`date +%F`"
-        files: Theodore_Cowan_Resume-`date +%F`.pdf
+        tag_name: ${{ steps.date.outputs.date }}
+        files: Theodore_Cowan_Resume-${{ steps.date.outputs.date }}.pdf
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
