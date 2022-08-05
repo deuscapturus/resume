@@ -16,59 +16,22 @@ Profile
 =======
 
 
-Entrepreneurial, professional and focused on the “big picture” of organizational goals. Deep expertise in architecture and delivery for Software-as-a-Service businesses. Decisive and goal-driven.
+Entrepreneurial, professional and focused on the “big picture” of organizational goals. Deep expertise in systems architecture, software delivery and data engineering in the Software-as-a-Service industry.
 
-Free software advocate and contributor; adept in the Python and Golang programming languages.  A certified Cloud Architect and public cloud strategist.
+Free software advocate and contributor; adept in Python, Typescript and Golang.  A certified Cloud Architect and a public cloud strategist.
 
-Areas of Expertise: SaaS Architecture, Cloud Architecture, DevOps, Data Engineering, AWS, Strategic Planning, Business Development, Free Software
+Areas of Expertise: SaaS Architecture, Cloud Architecture, DevOps, Infrastructure-as-Code, Data Engineering, AWS, Strategic Planning, Business Development, Free Software
 
 
 Skills
 ======
 
 
-AWS (most services), Linux (especially RedHat), AWS Cloudformation, Terraform, OCI Containers, Serverless Architecture, Kubernetes, TeamCity, NewRelic, ElasticSearch, ksqlDB, PostgreSQL, SaltStack, Google Cloud Platform, SQL, BASH, Python, Golang
+AWS, Linux (especially RedHat), CDK, Terraform, Containers, AWS Lambda, AWS Batch, AWS ECS, Kubernetes, TeamCity, Gitlab, NewRelic, ElasticSearch, Kafka, ksqlDB, PostgreSQL, SaltStack, SQL, BASH, Python, Typescript, Golang
 
 .. raw:: pdf
 
    PageBreak oneColumn
-
-
-Free Software Development
-=========================
-
-
-tISM
-----
-
-:Contributions: Project creator and maintainer.
-:Source:        https://github.com/deuscapturus/tism
-:Period:        September 2016 - December 2019
-:Language:      Go
-
-"The immutable secrets manager", tISM is PGP encryption-as-a-service for secrets management.  Decrypt/Encrypt PGP secrets via API with token authorization.
-
-
-SaltStack
----------
-
-:Contributions: AWS ELBv2 module, tISM module, TeamCity metarunner, bug fixes.
-:Source:        https://github.com/saltstack/salt
-:Period:        February 2015 - November 2018
-:Language:      Python
-
-SaltStack is a configuration management tool for platforms and infrastructure.
-
-
-Forge
------
-
-:Contributions: Project fork, new features and fixes.
-:Source:        https://github.com/deuscapturus/forge
-:Period:        April 2019 - September 2020
-:Language:      Go
-
-Forge is a tool for continuous delivery of AWS Cloudformation templates.
 
 
 Experience
@@ -78,7 +41,7 @@ Experience
 Pluralsight Boston MA
 ---------------------
 
-:Title:    Principal DevOps Engineer
+:Title:    Sr. Principal DevOps Engineer
 :Location: Boston Massachusetts
 :Period:   February 2018 – Present
 
@@ -161,11 +124,41 @@ Novell Inc
 - Monitored systems from the network operations center.
 
 
-Education
-=========
+Free Software Development
+=========================
 
 
-Snow College September 2001 - June 2002
+tISM
+----
+
+:Contributions: Project creator and maintainer.
+:Source:        https://github.com/deuscapturus/tism
+:Period:        September 2016 - December 2019
+:Language:      Go
+
+"The immutable secrets manager", tISM is PGP encryption-as-a-service for secrets management.  Decrypt/Encrypt PGP secrets via API with token authorization.
+
+
+SaltStack
+---------
+
+:Contributions: AWS ELBv2 module, tISM module, TeamCity metarunner, bug fixes.
+:Source:        https://github.com/saltstack/salt
+:Period:        February 2015 - November 2018
+:Language:      Python
+
+SaltStack is a configuration management tool for platforms and infrastructure.
+
+
+Forge
+-----
+
+:Contributions: Project fork, new features and fixes.
+:Source:        https://github.com/deuscapturus/forge
+:Period:        April 2019 - September 2020
+:Language:      Go
+
+Forge is a tool for continuous delivery of AWS Cloudformation templates.
 
 
 Certifications and Training
