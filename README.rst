@@ -5,37 +5,32 @@ Theodore Cowan
 
 :Phone:   801-792-4987
 :Email:   t@theodore.me
-:Address: Salem, Massachuseets
+:Address: Boston, Massachusetts
 
+
+Results-driven professional with a strong entrepreneurial spirit and an unwavering commitment to advancing organizational objectives. Distinguished by profound proficiency in Cloud architecture, software delivery, and data engineering within the dynamic Software-as-a-Service industry.
+
+Passionate free software advocate and active contributor, proficient in Python, Typescript, and Golang. Certified as a Cloud Architect and a strategic expert in public cloud technologies.
+
+Areas of Expertise: SaaS Architecture, Cloud Architecture, DevOps, Infrastructure-as-Code, Data Engineering, AWS, Strategic Planning, Business Development, Free Software
+
+----------------------------------
 
 .. contents::
     :local:
 
 
-Profile
-=======
-
-
-Entrepreneurial, professional and focused on the “big picture” of organizational goals. Deep expertise in systems architecture, software delivery and data engineering in the Software-as-a-Service industry.
-
-Free software advocate and contributor; adept in Python, Typescript and Golang.  A certified Cloud Architect and a public cloud strategist.
-
-Areas of Expertise: SaaS Architecture, Cloud Architecture, DevOps, Infrastructure-as-Code, Data Engineering, AWS, Strategic Planning, Business Development, Free Software
-
-
-Skills
-======
-
-
-AWS, Linux (especially RedHat), CDK, Terraform, Containers, AWS Lambda, AWS Batch, AWS ECS, Kubernetes, TeamCity, Gitlab, NewRelic, ElasticSearch, Kafka, ksqlDB, PostgreSQL, SaltStack, SQL, BASH, Python, Typescript, Golang
-
-.. raw:: pdf
-
-   PageBreak oneColumn
-
-
 Experience
 ==========
+
+Matterbeam Boston MA
+--------------------
+
+:Title:    Senior Engineer/Cloud Architect
+:Location: Boston Massachusetts
+:Period:   April 2023 - Present
+
+Key team member in the development of a groundbreaking SaaS platform that addresses data engineering hurdles prevalent within organizations.
 
 
 Pluralsight Boston MA
@@ -43,11 +38,11 @@ Pluralsight Boston MA
 
 :Title:    Sr. Principal DevOps Engineer
 :Location: Boston Massachusetts
-:Period:   February 2018 – Present
+:Period:   February 2018 – April 2023
 
 Focused on software delivery, infrastructure, data engineering and architecture for a machine learning and data science product teams.
 
-ksqlDB, Apache Kafka, Machine Learning Delivery, Apache Airflow, Tensorflow Serving, Nodejs, Python, Podman, Kubernetes, AWS ECS, AWS Lambda, AWS Cloudformation with cdk, SaltStack, TeamCity, Fedora Linux, GitHub, NewRelic, Continuous Integration, Continuous Delivery, Data Enineering
+- ksqlDB, Apache Kafka, Machine Learning Delivery, Apache Airflow, Tensorflow Serving, Nodejs, Python, Podman, Kubernetes, AWS ECS, AWS Lambda, AWS Cloudformation with cdk, SaltStack, TeamCity, Fedora Linux, GitHub, NewRelic, Continuous Integration, Continuous Delivery, Data Engineering
 
 Pluralsight Farmington UT
 -------------------------
@@ -56,7 +51,7 @@ Pluralsight Farmington UT
 :Location: Farmington Utah
 :Period:   January 2015 – February 2018
 
-AWS, Google Cloud Platform, Docker, Kubernetes, Project Atomic, SaltStack, TeamCity, NodeJS, .NET, RedHat Linux, Windows Server, GitHub, Python, GoLang, Powershell, Bash, NewRelic, Continuous Integration, Continuous Delivery, Immutable Infrastructure
+- AWS, Google Cloud Platform, Docker, Kubernetes, Project Atomic, SaltStack, TeamCity, NodeJS, .NET, RedHat Linux, Windows Server, GitHub, Python, GoLang, Powershell, Bash, NewRelic, Continuous Integration, Continuous Delivery, Immutable Infrastructure
 
 Spritz Technology Inc
 ---------------------
@@ -69,7 +64,7 @@ Spritz Technology Inc
 - DevOps: SaltStack, Nexus, AppDynamics, GitHub, Jenkins, ManageIQ, Tomcat, Apache, Python, Bash, Continuous Integration
 
 EMC
-----
+---
 
 :Title:    Support Engineer
 :Location: Draper, UT
@@ -111,7 +106,6 @@ Legacy Manufacturing Solutions LLC
 - Sales: Introduced bridge financing products.
 - Sales: Negotiated pricing and terms. Calculated duty and delivery paid pricing.
 
-
 Novell Inc
 -----------
 
@@ -122,43 +116,6 @@ Novell Inc
 - Developed and deployed remote administration tool for off-network Linux desktops.
 - Linux expert for IS&T helpdesk and internal migration team.
 - Monitored systems from the network operations center.
-
-
-Free Software Development
-=========================
-
-
-tISM
-----
-
-:Contributions: Project creator and maintainer.
-:Source:        https://github.com/deuscapturus/tism
-:Period:        September 2016 - December 2019
-:Language:      Go
-
-"The immutable secrets manager", tISM is PGP encryption-as-a-service for secrets management.  Decrypt/Encrypt PGP secrets via API with token authorization.
-
-
-SaltStack
----------
-
-:Contributions: AWS ELBv2 module, tISM module, TeamCity metarunner, bug fixes.
-:Source:        https://github.com/saltstack/salt
-:Period:        February 2015 - November 2018
-:Language:      Python
-
-SaltStack is a configuration management tool for platforms and infrastructure.
-
-
-Forge
------
-
-:Contributions: Project fork, new features and fixes.
-:Source:        https://github.com/deuscapturus/forge
-:Period:        April 2019 - September 2020
-:Language:      Go
-
-Forge is a tool for continuous delivery of AWS Cloudformation templates.
 
 
 Certifications and Training
