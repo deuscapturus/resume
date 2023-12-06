@@ -1,0 +1,37 @@
+fontsAlias:
+    stdFont: Georgia
+
+pageTemplates:
+  coverPage:
+      showHeader : false
+      showFooter : false
+
+pageSetup:
+  margin-top: 1cm
+  margin-bottom: 1cm
+  margin-left: 2cm
+  margin-right: 2cm
+  margin-gutter: 0cm
+
+styles:
+    normal:
+        fontName: stdFont
+        textColor: #383745
+        fontSize: 9
+        #alignment: TA_LEFT
+
+    heading:
+        fontSize: 12
+        textColor: #1a8099
+
+    title:
+        parent: heading
+        fontSize: 100%
+
+    heading1:
+        parent: heading
+        fontSize: 12
+    
+    heading2:
+        parent: heading
+        fontSize: 10
