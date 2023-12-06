@@ -8,7 +8,7 @@ jobs:
     container: registry.fedoraproject.org/fedora:34 
     steps:
     - name: Install rst2pdf
-      run: dnf install rst2pdf -y
+      run: dnf install rst2pdf fontconfig -y
     - uses: actions/checkout@v2
     - name: Run build_pdf.sh
       run: ./build_pdf.sh
