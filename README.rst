@@ -3,32 +3,43 @@ Theodore Cowan
 ==============
 
 
-:Phone:   801-792-4987
+:Phone:   978-327-1223
 :Email:   t@theodore.me
 :Address: Salem, Massachusetts
 
 
-Results-driven professional with a strong entrepreneurial spirit and unwavering commitment to advancing business objectives. Expertly skilled in public cloud architecture, product architecture, product delivery, and streaming data engineering within the dynamic Software-as-a-Service industry.
+Building SaaS products on AWS is my core power. My professional identity is rooted in a love for helping others and deriving satisfaction from empowering myself and others to be excellent builders. I am a results-driven professional with a strong entrepreneurial spirit and an unwavering commitment to advancing business objectives. I am expertly skilled in public cloud architecture, product architecture, product delivery, and streaming data engineering within Software-as-a-Service.
 
-Passionate free software advocate and active contributor.  Proficient in Python, Typescript, and Golang. Certified (EMCCAe) as a Cloud Architect.
+I am a passionate free software advocate with a keen interest in AI and an active contributor to the community. I am proficient in Python, TypeScript, and Golang, and I am certified (EMCCAe) as a Cloud Architect.
 
-Areas of Expertise: AWS, Software Development, Cloud Architecture, DevOps, Infrastructure-as-Code, Streaming Data Engineering, SaaS, Strategic Planning, Business Development, Free Software, Large Language Models.
+Areas of Expertise: AWS, Software Development, Cloud Architecture, DevOps, Infrastructure-as-Code, Streaming Data Engineering, SaaS, Strategic Planning, Business Development, Free Software, Artificial Intelligence, Large Language Models.
 
 ----------------------------------
 
 Experience
 ==========
 
-Guvnor.ai
+Hosta AI
+--------
+
+:Title:    Lead Engineer
+:Location: Cambridge Massachusetts
+:Period:   January 2024 - Present
+
+Leading the User Experience team, we created innovative services leveraging computer vision for the insurance and contractor industries. I wrote code while mentoring backend and frontend engineers and participated in product discovery and design. Additionally, I led system design, architecture, feature experiments and analysis.
+
+- Python, AWS Lambda, AWS Step Functions, aws-cdk, React, Typescript, Github Actions, Flagsmith, Mixpanel
+
+Guvnor AI
 ---------
 
 :Title:    Creator
-:Location: Boston Massachusetts
-:Period:   November 2023 - Present
+:Location: Salem Massachusetts
+:Period:   December 2023 - Present
 
-A project with the goal of generating and retrieving knowledge graph data with large language models and performing memory retrieval for chat with vector search.
+I developed a chatbot with streaming responses entirely on AWS serverless infrastructure. The goal of Guvnor is to demonstrate personalization and long-term memory by populating and querying a knowledge graph as a RAG method.
 
-Tooling: llama-index, langchain, OpenAI, AWS Bedrock, AWS Lambda, DynamoDB, Neptune
+- Python, AWS Bedrock, OpenAI, Large Language Models, Llama Index, LangChain, AWS API Gateway, aws-cdk, Neo4j, Github Actions
 
 Matterbeam
 ----------
@@ -50,7 +61,7 @@ Pluralsight Boston
 
 Focused on software delivery, infrastructure, streaming data engineering and architecture for machine learning and data science product teams.  Provided mentorship and guidance to DevOps team members.
 
-- aws-cdk, cdk8s, Terraform, ksqlDB, Apache Kafka, Apache Airflow, Tensorflow Serving, Nodejs, Python, Podman, Kubernetes, AWS ECS, AWS Lambda, SaltStack, TeamCity, Fedora Linux, GitHub, Gitlab, NewRel
+- aws-cdk, cdk8s, Terraform, ksqlDB, Apache Kafka, Apache Airflow, Tensorflow Serving, Nodejs, Python, Podman, Kubernetes, AWS ECS, AWS Lambda, SaltStack, TeamCity, Fedora Linux, GitHub, Gitlab, NewRelic
 
 Pluralsight Farmington
 ----------------------
@@ -72,7 +83,7 @@ Spritz Technology Inc
 
 A member of a small team startup creating a novel web service.  Focused on AWS infrastructure, operations, platform configuration management and product delivery.
 
-- AWS, Amazon Linux, MongoDB, ITIL, Change Management, Disaster Recovery, High Availability, IT-as-service, Splunk, Graphite, OpenShift, ManageIQ, SaltStack, Nexus, AppDynamics, GitHub, Jenkins, Tomcat, Apache, Python, Bash, Continuous Integration
+- AWS, Amazon Linux, MongoDB, ITIL, Splunk, Graphite, OpenShift, ManageIQ, SaltStack, Nexus, AppDynamics, GitHub, Jenkins, Tomcat, Apache, Python
 
 EMC
 ---
