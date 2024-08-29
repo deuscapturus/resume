@@ -19,17 +19,6 @@ Areas of Expertise: AWS, Software Development, Cloud Architecture, DevOps, Infra
 Experience
 ==========
 
-Hosta AI
---------
-
-:Title:    Lead Engineer
-:Location: Cambridge Massachusetts
-:Period:   January 2024 - Present
-
-Leading the User Experience team, we created innovative services leveraging computer vision for the insurance and contractor industries. I wrote code while mentoring backend and frontend engineers and participated in product discovery and design. Additionally, I led system design, architecture, feature experiments and analysis.
-
-- Python, AWS Lambda, AWS Step Functions, aws-cdk, React, Typescript, Github Actions, Flagsmith, Mixpanel
-
 Guvnor AI
 ---------
 
@@ -37,9 +26,20 @@ Guvnor AI
 :Location: Salem Massachusetts
 :Period:   December 2023 - Present
 
-I developed a chatbot with streaming responses entirely on AWS serverless infrastructure. The goal of Guvnor is to demonstrate personalization and long-term memory by populating and querying a knowledge graph as a RAG method.
+I developed a chatbot with streaming responses entirely on AWS serverless infrastructure. The goal of Guvnor is to demonstrate personalization and long-term memory by populating and querying a knowledge graph as a RAG method.  Guvnor is my personal playground for experimenting with AI and large language models.
 
 - Python, AWS Bedrock, OpenAI, Large Language Models, Llama Index, LangChain, AWS API Gateway, aws-cdk, Neo4j, Github Actions
+
+Hosta AI
+--------
+
+:Title:    Lead Engineer
+:Location: Cambridge Massachusetts
+:Period:   January 2024 - July 2024
+
+Leading the User Experience team, we created innovative services leveraging computer vision for the insurance and contractor industries. I wrote code while mentoring backend and frontend engineers and participated in product discovery and design. Additionally, I led system design, architecture, feature experiments and analysis.
+
+- Python, AWS Lambda, AWS Step Functions, aws-cdk, React, Typescript, Github Actions, Flagsmith, Mixpanel
 
 Matterbeam
 ----------
