@@ -66,7 +66,7 @@ Building IrisChat, combining AI research, business exploration, and software eng
 
 - Conducted AI research and explored business opportunities as a Principal Software Engineer.
 - Built and launched IrisChat in November 2025.
-- Invented IrisChat's graph-memory approach, making graph memory a core part of the product's AI architecture.
+- Conceived and designed a graph-based memory system for IrisChat.
 - Promoted to Senior Principal Software Engineer in November 2025; continue developing IrisChat.
 
 Hosta AI
