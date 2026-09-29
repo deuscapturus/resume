@@ -68,17 +68,6 @@ Building IrisChat, combining AI research, business exploration, and software eng
 - Built and launched IrisChat in November 2025.
 - Promoted to Senior Principal Software Engineer in November 2025; continue developing IrisChat.
 
-Guvnor AI
----------
-
-:Title:    Creator
-:Location: Salem Massachusetts
-:Period:   December 2023 - Present
-
-I developed a chatbot with streaming responses entirely on AWS serverless infrastructure. The goal of Guvnor is to demonstrate personalization and long-term memory by populating and querying a knowledge graph as a RAG method.  Guvnor is my personal playground for experimenting with AI and large language models.
-
-- Python, AWS Bedrock, OpenAI, Large Language Models, Llama Index, LangChain, AWS API Gateway, aws-cdk, Neo4j, Github Actions
-
 Hosta AI
 --------
 
