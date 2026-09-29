@@ -55,6 +55,19 @@ SDKs and Libraries: boto3
 Work Experience
 ===============
 
+Flagship Lab 105, Inc
+---------------------
+
+:Title:    Senior Principal Software Engineer (November 2025 - Present)
+:Previous Title: Principal Software Engineer (October 2024 - October 2025)
+:Period:   October 2024 - Present
+
+Building IrisChat, combining AI research, business exploration, and software engineering to bring a new AI product to market.
+
+- Conducted AI research and explored business opportunities as a Principal Software Engineer.
+- Built and launched IrisChat in November 2025.
+- Promoted to Senior Principal Software Engineer in November 2025; continue developing IrisChat.
+
 Guvnor AI
 ---------
 
