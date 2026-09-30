@@ -8,11 +8,13 @@ Theodore Cowan
 :Address: Salem, Massachusetts
 
 
-Building SaaS products on AWS is my core power. My professional identity is rooted in a love for helping others and deriving satisfaction from empowering myself and others to be excellent builders. I am a results-driven professional with a strong entrepreneurial spirit and an unwavering commitment to advancing business objectives. I am expertly skilled in public cloud architecture, product architecture, product delivery, and streaming data engineering within Software-as-a-Service.
+Senior Principal Software Engineer focused on building AI-powered SaaS products on AWS. I combine hands-on engineering, AI research, and business exploration with a deep interest in system design and architecture. At Flagship Lab 105, Inc, I built and launched IrisChat and continue developing its conversational AI capabilities.
 
-I am a passionate free software advocate with a keen interest in AI and an active contributor to the community. I am proficient in Python, TypeScript, and Golang, and I am certified (EMCCAe) as a Cloud Architect.
+I find particular satisfaction in designing systems: connecting long-term memory, context engineering, agent orchestration, and messaging into cohesive products. My recent work centers on LangChain, LangGraph, AWS Bedrock, and OpenAI, with AWS infrastructure defined through AWS CDK. I also bring an experiment-driven approach to product development, using Amplitude and LaunchDarkly to support feature experimentation and releases.
 
-Areas of Expertise: AWS, Software Development, Cloud Architecture, DevOps, Infrastructure-as-Code, Streaming Data Engineering, SaaS, Strategic Planning, Business Development, Free Software, Artificial Intelligence, Large Language Models.
+I am proficient in Python, TypeScript, and Go, certified (EMCCAe) as a Cloud Architect, and a passionate free software advocate who values mentoring and helping others become excellent builders.
+
+Areas of Expertise: AI SaaS Product Development, System Design, Software Architecture, Conversational AI, Agent Orchestration, Graph-Based Memory, Context Engineering, Prompt Engineering, LLM Evaluation, Product Analytics and Experimentation, AWS, Infrastructure as Code, Streaming Data Engineering.
 
 ----------------------------------
 
@@ -24,12 +26,15 @@ I have over 12 years of experience in AWS, specializing in Platform Operations, 
 Key Areas of Expertise
 ----------------------
 
-Cloud Architecture: Design and implement scalable, secure, and cost-effective cloud architectures.
-Cloud Migrations: Lead and execute complex migrations to AWS, ensuring minimal disruption.
-Cost Optimization: Develop strategies to reduce AWS costs through resource monitoring and tradeoff analysis.
-DevOps: Implement CI/CD pipelines, infrastructure as code, and automated deployment processes.
-Data Engineering: Build and manage streaming data pipelines, data lakes, and analytics solutions.
-Machine Learning: Train and deploy machine learning models using AWS services.
+- AI Application Engineering: Build conversational AI systems using LangChain, LangGraph, AWS Bedrock, and OpenAI.
+- System Design & Architecture: Design SaaS systems that connect AI capabilities, data pipelines, cloud services, and product integrations.
+- Memory & Context Engineering: Design graph-based long-term memory and manage the context supplied to conversational AI.
+- Proactive Agent Orchestration: Design context-aware scheduling that supports future agent invocation and decisions to respond, reschedule, or skip.
+- LLM Evaluation & Prompt Engineering: Develop prompts and evaluation workflows incorporating human annotations.
+- Product Analytics & Experimentation: Use Amplitude and LaunchDarkly to support experiment-driven feature releases.
+- Cloud Engineering: Build managed and serverless AWS systems with AWS CDK, CI/CD, observability, and cost optimization.
+- Data Engineering: Build streaming data pipelines, data lakes, and analytics solutions.
+- Cloud Migrations: Lead and execute migrations to AWS.
 
 
 AWS Services Proficiencies
@@ -40,17 +45,21 @@ Storage & Databases: S3, EFS, DynamoDB, RDS, Aurora, Neptune
 Networking: VPC, Route 53, Direct Connect, CloudFront
 Security & Identity: IAM, KMS, Secrets Manager, Cognito
 Analytics & Data Processing: Athena, Glue, Redshift, DataFirehose
-Machine Learning: SageMaker, Comprehend, Rekognition
+Machine Learning & AI: Bedrock, SageMaker, Comprehend, Rekognition
 Application Integration: SNS, SQS, Step Functions, EventBridge
 Management & Monitoring: CloudWatch, CloudTrail, Systems Manager, X-Ray
 
-Tooling
--------
+Languages and Tooling
+---------------------
 
-Infrastructure as Code: aws-cdk, CloudFormation, Terraform
-Configuration Management: Helm, cdk8s, SaltStack
-CI/CD: GitLab, GitHub Actions, Jenkins, TeamCity
-SDKs and Libraries: boto3
+- Languages: Python, TypeScript, Go
+- AI & Agent Frameworks: LangChain, LangGraph
+- AI Platforms: AWS Bedrock, OpenAI
+- Product Analytics & Experimentation: Amplitude, LaunchDarkly
+- Infrastructure as Code: AWS CDK, CloudFormation, Terraform
+- Configuration Management: Helm, cdk8s, SaltStack
+- CI/CD: GitLab, GitHub Actions, Jenkins, TeamCity
+- SDKs and Libraries: boto3
 
 Work Experience
 ===============
@@ -62,12 +71,19 @@ Flagship Lab 105, Inc
 :Previous Title: Principal Software Engineer (October 2024 - October 2025)
 :Period:   October 2024 - Present
 
-Building IrisChat, combining AI research, business exploration, and software engineering to bring a new AI product to market.
+Built and launched IrisChat, combining AI research, business exploration, and software engineering to bring an AI SaaS product to market. Continue developing the product with a focus on system design, conversational AI, and experiment-driven feature releases.
 
-- Conducted AI research and explored business opportunities as a Principal Software Engineer.
-- Built and launched IrisChat in November 2025.
-- Conceived and designed a graph-based memory system for IrisChat.
-- Promoted to Senior Principal Software Engineer in November 2025; continue developing IrisChat.
+- Joined as Principal Software Engineer in October 2024 to conduct AI research and explore business opportunities.
+- Launched IrisChat and was promoted to Senior Principal Software Engineer in November 2025.
+- Conceived and designed a graph-based memory system for IrisChat to support long-term conversational memory.
+- Develop context engineering and conversational AI workflows using LangChain, LangGraph, AWS Bedrock, and OpenAI.
+- Designed a context-aware scheduling system that enables IrisChat to initiate future interactions from explicit user requests or inferred needs, then evaluate whether to respond, reschedule, or skip when triggered.
+- Integrate IrisChat with iMessage, RCS, and SMS.
+- Develop prompts and LLM evaluation workflows incorporating human annotations.
+- Use Amplitude and LaunchDarkly to support product analytics and experiment-driven feature releases.
+- Build AWS infrastructure using AWS CDK.
+
+- Python, TypeScript, AWS, AWS CDK, AWS Bedrock, OpenAI, LangChain, LangGraph, Amplitude, LaunchDarkly
 
 Hosta AI
 --------
