@@ -8,57 +8,29 @@ Theodore Cowan
 :Address: Salem, Massachusetts
 
 
-Senior Principal Software Engineer focused on building AI-powered SaaS products on AWS. I combine hands-on engineering, AI research, and business exploration with a deep interest in system design and architecture. I build and launch conversational AI products, taking systems from exploration through production and continued development.
+Senior Principal Software Engineer focused on designing and building AI-powered SaaS products. I combine hands-on full-stack engineering with system architecture, AI research, and business exploration, taking products from early concepts through launch and continued development.
 
-I find particular satisfaction in designing systems: connecting long-term memory, context engineering, agent orchestration, and messaging into cohesive products. My recent work centers on LangChain, LangGraph, AWS Bedrock, and OpenAI, with AWS infrastructure defined through AWS CDK. I also bring an experiment-driven approach to product development, using Amplitude and LaunchDarkly to support feature experimentation and releases.
+I find particular satisfaction in system design: turning product needs into cohesive applications, services, and data flows. My work spans AI applications, backend services, frontend experiences, cloud infrastructure, checkout and billing, product experimentation, and conversion measurement. I bring an experiment-driven approach to feature delivery and connect engineering decisions to product and business objectives.
 
 I am proficient in Python, TypeScript, and Go, certified (EMCCAe) as a Cloud Architect, and a passionate free software advocate who values mentoring and helping others become excellent builders.
 
-Areas of Expertise: AI SaaS Product Development, System Design, Software Architecture, Conversational AI, Agent Orchestration, Graph-Based Memory, Context Engineering, Prompt Engineering, LLM Evaluation, Product Analytics and Experimentation, AWS, Infrastructure as Code, Streaming Data Engineering.
-
 ----------------------------------
 
-AWS Experience
-==============
+Engineering Capabilities
+========================
 
-I have over 12 years of experience in AWS, specializing in Platform Operations, Cloud Architecture, Cloud Migrations, Cost Optimization, DevOps, Software Engineering, Data Engineering, and Machine Learning. I am a strong proponent of leveraging cloud-native solutions, preferring managed services over self-hosted options, serverless architectures over provisioned infrastructure, and buying over building when appropriate.
+- System Design & Architecture: Design SaaS applications, service boundaries, integrations, and data flows using event-driven architecture and Domain-Driven Design.
+- AI Application Engineering: Integrate foundation models, orchestrate stateful agents, engineer context, and develop prompts and evaluation workflows incorporating human annotations.
+- Full-Stack Product Development: Build backend services, APIs, and customer-facing web applications.
+- SaaS Commerce: Implement checkout, subscriptions, billing, and customer onboarding.
+- Product Analytics & Experimentation: Instrument user behavior, support feature experiments, and deliver controlled releases.
+- Data Engineering & Conversion Measurement: Build streaming pipelines, analytics integrations, and conversion-tracking systems supporting customer acquisition.
+- Cloud Engineering & Delivery: Design managed and serverless infrastructure, automate deployments with infrastructure as code and CI/CD, and support observability and cost optimization.
 
-Key Areas of Expertise
-----------------------
+Cloud Architecture
+------------------
 
-- AI Application Engineering: Build conversational AI systems using LangChain, LangGraph, AWS Bedrock, and OpenAI.
-- System Design & Architecture: Design SaaS systems that connect AI capabilities, data pipelines, cloud services, and product integrations.
-- Memory & Context Engineering: Design graph-based long-term memory and manage the context supplied to conversational AI.
-- Proactive Agent Orchestration: Design context-aware scheduling that supports future agent invocation and decisions to respond, reschedule, or skip.
-- LLM Evaluation & Prompt Engineering: Develop prompts and evaluation workflows incorporating human annotations.
-- Product Analytics & Experimentation: Use Amplitude and LaunchDarkly to support experiment-driven feature releases.
-- Cloud Engineering: Build managed and serverless AWS systems with AWS CDK, CI/CD, observability, and cost optimization.
-- Data Engineering: Build streaming data pipelines, data lakes, and analytics solutions.
-- Cloud Migrations: Lead and execute migrations to AWS.
-
-
-AWS Services Proficiencies
---------------------------
-
-Compute: EC2, Lambda, ECS, EKS
-Storage & Databases: S3, EFS, DynamoDB, RDS, Aurora, Neptune
-Networking: VPC, Route 53, Direct Connect, CloudFront
-Security & Identity: IAM, KMS, Secrets Manager, Cognito
-Analytics & Data Processing: Athena, Glue, Redshift, DataFirehose
-Machine Learning & AI: Bedrock, SageMaker, Comprehend, Rekognition
-Application Integration: SNS, SQS, Step Functions, EventBridge
-Management & Monitoring: CloudWatch, CloudTrail, Systems Manager, X-Ray
-
-Languages and Tooling
----------------------
-
-- Languages: Python, TypeScript, Go
-- AI & Agent Frameworks: LangChain, LangGraph
-- AI Platforms: AWS Bedrock, OpenAI
-- Product Analytics & Experimentation: Amplitude, LaunchDarkly
-- Infrastructure as Code: AWS CDK, CloudFormation, Terraform
-- Configuration Management: Helm, cdk8s, SaltStack
-- CI/CD: GitLab, GitHub Actions, Jenkins, TeamCity
+I have over 12 years of experience building on AWS across software engineering, data engineering, platform operations, cloud migrations, and machine learning. I favor managed services and serverless architectures, building differentiating capabilities and buying established solutions when appropriate.
 
 Work Experience
 ===============
@@ -69,19 +41,20 @@ Flagship Lab 105, Inc
 :Title:    Senior Principal Software Engineer
 :Period:   October 2024 - Present
 
-Built and launched IrisChat, combining AI research, business exploration, and software engineering to bring an AI SaaS product to market. Continue developing the product with a focus on system design, conversational AI, and experiment-driven feature releases.
+Develop IrisChat through AI research, business exploration, system architecture, and hands-on full-stack engineering. Built and launched the AI SaaS product in November 2025 and continue delivering features through an experiment-driven release process.
 
 - Conduct AI research and explore business opportunities for AI-powered SaaS products.
-- Built and launched IrisChat in November 2025.
 - Conceived and designed a graph-based memory system for IrisChat to support long-term conversational memory.
-- Develop context engineering and conversational AI workflows using LangChain, LangGraph, AWS Bedrock, and OpenAI.
+- Develop conversational AI workflows and context engineering, integrating foundation models and stateful agent orchestration.
 - Designed a context-aware scheduling system that enables IrisChat to initiate future interactions from explicit user requests or inferred needs, then evaluate whether to respond, reschedule, or skip when triggered.
 - Integrate IrisChat with iMessage, RCS, and SMS.
 - Develop prompts and LLM evaluation workflows incorporating human annotations.
-- Use Amplitude and LaunchDarkly to support product analytics and experiment-driven feature releases.
-- Build AWS infrastructure using AWS CDK.
+- Implement product instrumentation, behavioral analytics, and controlled feature releases to support continuous experimentation.
+- Build customer-facing web experiences with React and implement checkout and subscription billing with Stripe.
+- Implement data pipelines and conversion-tracking integrations supporting Meta and TikTok marketing campaigns.
+- Design and build managed and serverless AWS infrastructure using infrastructure as code.
 
-- Python, TypeScript, AWS, AWS CDK, AWS Bedrock, OpenAI, LangChain, LangGraph, Amplitude, LaunchDarkly
+- Selected technologies: Python, TypeScript, React, AWS CDK, AWS Bedrock, OpenAI, LangChain, LangGraph, Stripe, Amplitude, LaunchDarkly
 
 Hosta AI
 --------
