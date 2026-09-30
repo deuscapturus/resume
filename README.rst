@@ -66,14 +66,13 @@ Work Experience
 Flagship Lab 105, Inc
 ---------------------
 
-:Title:    Senior Principal Software Engineer (November 2025 - Present)
-:Previous Title: Principal Software Engineer (October 2024 - October 2025)
+:Title:    Senior Principal Software Engineer
 :Period:   October 2024 - Present
 
 Built and launched IrisChat, combining AI research, business exploration, and software engineering to bring an AI SaaS product to market. Continue developing the product with a focus on system design, conversational AI, and experiment-driven feature releases.
 
-- Joined as Principal Software Engineer in October 2024 to conduct AI research and explore business opportunities.
-- Launched IrisChat and was promoted to Senior Principal Software Engineer in November 2025.
+- Conduct AI research and explore business opportunities for AI-powered SaaS products.
+- Built and launched IrisChat in November 2025.
 - Conceived and designed a graph-based memory system for IrisChat to support long-term conversational memory.
 - Develop context engineering and conversational AI workflows using LangChain, LangGraph, AWS Bedrock, and OpenAI.
 - Designed a context-aware scheduling system that enables IrisChat to initiate future interactions from explicit user requests or inferred needs, then evaluate whether to respond, reschedule, or skip when triggered.
