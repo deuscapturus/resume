@@ -8,7 +8,7 @@ Theodore Cowan
 :Address: Salem, Massachusetts
 
 
-Senior Principal Software Engineer focused on building AI-powered SaaS products on AWS. I combine hands-on engineering, AI research, and business exploration with a deep interest in system design and architecture. At Flagship Lab 105, Inc, I built and launched IrisChat and continue developing its conversational AI capabilities.
+Senior Principal Software Engineer focused on building AI-powered SaaS products on AWS. I combine hands-on engineering, AI research, and business exploration with a deep interest in system design and architecture. I build and launch conversational AI products, taking systems from exploration through production and continued development.
 
 I find particular satisfaction in designing systems: connecting long-term memory, context engineering, agent orchestration, and messaging into cohesive products. My recent work centers on LangChain, LangGraph, AWS Bedrock, and OpenAI, with AWS infrastructure defined through AWS CDK. I also bring an experiment-driven approach to product development, using Amplitude and LaunchDarkly to support feature experimentation and releases.
 
@@ -59,7 +59,6 @@ Languages and Tooling
 - Infrastructure as Code: AWS CDK, CloudFormation, Terraform
 - Configuration Management: Helm, cdk8s, SaltStack
 - CI/CD: GitLab, GitHub Actions, Jenkins, TeamCity
-- SDKs and Libraries: boto3
 
 Work Experience
 ===============
